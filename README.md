@@ -1,6 +1,5 @@
 # RPS Challenge
-[![Build Status](https://travis-ci.org/armi1189/rps-challenge.svg?branch=master)](https://travis-ci.org/armi1189/rps-challenge)
-[![Code Climate](https://codeclimate.com/github/armi1189/rps-challenge/badges/gpa.svg)](https://codeclimate.com/github/armi1189/rps-challenge)
+[![Build Status](https://travis-ci.org/armi1189/rps-challenge.svg?branch=master)](https://travis-ci.org/armi1189/rps-challenge) [![Code Climate](https://codeclimate.com/github/armi1189/rps-challenge/badges/gpa.svg)](https://codeclimate.com/github/armi1189/rps-challenge)
 -------
 ###[Try it on Heroku!](https://safe-caverns-7925.herokuapp.com/)
 -------
