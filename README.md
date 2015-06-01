@@ -5,7 +5,7 @@
 ###[Try it on Heroku!](https://safe-caverns-7925.herokuapp.com/)
 
 ![HomePage](https://github.com/armi1189/rps-challenge/blob/master/public/img/rp1.jpg)
-![GamePace](https://github.com/armi1189/rps-challenge/blob/master/public/img/rp2.jpg)
+![GamePage](https://github.com/armi1189/rps-challenge/blob/master/public/img/rps2.jpg)
 
 Instructions
 -------
