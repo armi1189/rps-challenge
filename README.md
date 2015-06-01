@@ -1,12 +1,12 @@
 # RPS Challenge
 [![Build Status](https://travis-ci.org/armi1189/rps-challenge.svg?branch=master)](https://travis-ci.org/armi1189/rps-challenge)
 [![Code Climate](https://codeclimate.com/github/armi1189/rps-challenge/badges/gpa.svg)](https://codeclimate.com/github/armi1189/rps-challenge)
-
+-------
 ###[Try it on Heroku!](https://safe-caverns-7925.herokuapp.com/)
-
+-------
 ![HomePage](https://github.com/armi1189/rps-challenge/blob/master/public/img/rp1.jpg)
 ![GamePage](https://github.com/armi1189/rps-challenge/blob/master/public/img/rps2.jpg)
-
+-------
 Instructions
 -------
 * Challenge time: Friday, the entire day + the weekend if you need it
