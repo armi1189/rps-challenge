@@ -1,4 +1,4 @@
-# RPS Challenge: Rōnin Badge Test
+# RPS Challenge
 
 ###[Try it on Heroku!](https://safe-caverns-7925.herokuapp.com/)
 
