@@ -4,6 +4,9 @@
 
 ###[Try it on Heroku!](https://safe-caverns-7925.herokuapp.com/)
 
+![HomePage](https://github.com/armi1189/rps-challenge/blob/master/public/img/rp1.jpg)
+![GamePace](https://github.com/armi1189/rps-challenge/blob/master/public/img/rp2.jpg)
+
 Instructions
 -------
 * Challenge time: Friday, the entire day + the weekend if you need it
