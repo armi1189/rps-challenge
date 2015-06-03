@@ -6,11 +6,11 @@
 ![HomePage](https://github.com/armi1189/rps-challenge/blob/master/public/img/rp1.jpg)
 ![GamePage](https://github.com/armi1189/rps-challenge/blob/master/public/img/rps2.jpg)
 -------
-Instructions
+How To Run
 -------
-* Challenge time: Friday, the entire day + the weekend if you need it
-* Feel free to use google, your notes, books, etc but work on your own
-* You must submit a pull request to this repo with your code by 9am Monday morning
+* Follow [heroku link](https://safe-caverns-7925.herokuapp.com/) and play the game!
+* For run locally, clone the repo, run `bundle`, and start sinatra server by typing `ruby server.rb` in the main folder.
+
 
 Task 
 ----
