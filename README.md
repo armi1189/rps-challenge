@@ -4,59 +4,37 @@
 ###[Try it on Heroku!](https://safe-caverns-7925.herokuapp.com/)
 -------
 ![HomePage](https://github.com/armi1189/rps-challenge/blob/master/public/img/rp1.jpg)
-![GamePage](https://github.com/armi1189/rps-challenge/blob/master/public/img/rps2.jpg)
 -------
+Tools
+-------
+Develop: Ruby, Sinatra
+Testing: Cucumber, RSpec
+
 How To Run
 -------
 * Follow [heroku link](https://safe-caverns-7925.herokuapp.com/) and play the game!
 * For run locally, clone the repo, run `bundle`, and start sinatra server by typing `ruby server.rb` in the main folder.
 
 
-Task 
+What it Is?
 ----
+A simple Rock Paper Scissors game playable from the browser.
+The home page requires you to insert your name and choose your game type, normal or lizard/spock variation.
+The second page let you choose your weapon, based on the game type, and your opponent, CPU or Human Player (yes.. it's multiplayer!)
 
-Knowing how to build web applications is getting us almost there as web developers!
+VS CPU  
+----
+Choosing to play against CPU the system will randomly choose a weapon and return the result of the match.
 
-The Makers Academy Marketing Array ( **MAMA** ) have asked us to provide a game for them. Their daily grind is pretty tough and they need time to steam a little.
+![GamePage VS CPU](https://github.com/armi1189/rps-challenge/blob/master/public/img/rps2.jpg)
 
-Your task is to provide a _Rock, Paper, Scissors_ game for them so they can play on the web with the following user stories:
+VS Human Player
+----
+Choosing to play against Human Player you will be randomly paired with other players that wants to play in that moment. Then the system will verify the players choiches and returns the winner.
 
-```sh
-As a marketeer
-So that I can see my name in lights
-I would like to register my name before playing an online game
+![GamePage VS CPU](https://github.com/armi1189/rps-challenge/blob/master/public/img/rps3.jpg)
 
-As a marketeer
-So that I can enjoy myself away from the daily grind
-I would like to be able to play rock/paper/scissors
-```
+Lizard/Spock Variation
+----
+The game provides also a Lizard/Spock game type, 
 
-Hints on functionality
-
-- the marketeer should be able to enter their name before the game
-- the marketeer will be presented the choices (rock, paper and scissors)
-- the marketeer can choose one option
-- the game will choose a random option
-- a winner will be declared
-
-
-As usual please start by
-
-* Filling out your learning plan self review for the week: https://github.com/makersacademy/learning_plan (if you haven't already)
-* Forking this repo
-
-**Rōnin BANZAI!!!!**
-
-## Bonus level 1: Multiplayer
-
-Change the game so that two marketeers can play against each other ( _yes there are two of them_ ).
-
-## Bonus level 2: Rock, Paper, Scissors, Spock, Lizard
-
-Use the _special_ rules ( _you can find them here http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock_ )
-
-## Basic Rules
-
-- Rock beats Scissors
-- Scissors beats Paper
-- Paper beats Rock
