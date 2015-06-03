@@ -8,8 +8,7 @@ The home page requires you to insert your name and choose your game type, normal
 The second page let you choose your weapon, based on the game type, and your opponent, CPU or Human Player (yes.. it's multiplayer!)
 ###[Try it on Heroku!](https://safe-caverns-7925.herokuapp.com/)
 -------
-![HomePage](https://github.com/armi1189/rps-challenge/blob/master/public/img/rp1.jpg)
-----
+![HomePage](https://github.com/armi1189/rps-challenge/blob/master/public/img/rp1.jpg)  
 Tools
 ----
 - Develop: Ruby, Sinatra  
