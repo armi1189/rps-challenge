@@ -7,8 +7,8 @@
 -------
 Tools
 -------
-Develop: Ruby, Sinatra
-Testing: Cucumber, RSpec
+- Develop: Ruby, Sinatra  
+- Testing: Cucumber, RSpec
 
 How To Run
 -------
@@ -28,7 +28,7 @@ Choosing to play against CPU the system will randomly choose a weapon and return
 
 ![GamePage VS CPU](https://github.com/armi1189/rps-challenge/blob/master/public/img/rps2.jpg)
 
-VS Human Player
+Online Multiplayer
 ----
 Choosing to play against Human Player you will be randomly paired with other players that wants to play in that moment. Then the system will verify the players choiches and returns the winner.
 
