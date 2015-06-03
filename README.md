@@ -36,5 +36,6 @@ Choosing to play against Human Player you will be randomly paired with other pla
 
 Lizard/Spock Variation
 ----
-The game provides also a Lizard/Spock game type, 
+The game provides also a Lizard/Spock game type, adding two new kind of weapons to the classic game.
 
+[Check the rules on Wikipedia](http://en.wikipedia.org/wiki/Rock-paper-scissors#Additional_weapons)
