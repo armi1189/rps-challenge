@@ -1,26 +1,24 @@
 # RPS Challenge
 [![Build Status](https://travis-ci.org/armi1189/rps-challenge.svg?branch=master)](https://travis-ci.org/armi1189/rps-challenge) [![Coverage Status](https://coveralls.io/repos/armi1189/rps-challenge/badge.svg)](https://coveralls.io/r/armi1189/rps-challenge) [![Code Climate](https://codeclimate.com/github/armi1189/rps-challenge/badges/gpa.svg)](https://codeclimate.com/github/armi1189/rps-challenge)
 -------
-###[Try it on Heroku!](https://safe-caverns-7925.herokuapp.com/)
--------
-![HomePage](https://github.com/armi1189/rps-challenge/blob/master/public/img/rp1.jpg)
--------
-Tools
--------
-- Develop: Ruby, Sinatra  
-- Testing: Cucumber, RSpec
-
-How To Run
--------
-* Follow [heroku link](https://safe-caverns-7925.herokuapp.com/) and play the game!
-* For run locally, clone the repo, run `bundle`, and start sinatra server by typing `ruby server.rb` in the main folder.
-
-
 What it Is?
 ----
 A simple Rock Paper Scissors game playable from the browser.
 The home page requires you to insert your name and choose your game type, normal or lizard/spock variation.
 The second page let you choose your weapon, based on the game type, and your opponent, CPU or Human Player (yes.. it's multiplayer!)
+###[Try it on Heroku!](https://safe-caverns-7925.herokuapp.com/)
+-------
+![HomePage](https://github.com/armi1189/rps-challenge/blob/master/public/img/rp1.jpg)
+----
+Tools
+----
+- Develop: Ruby, Sinatra  
+- Testing: Cucumber, RSpec
+
+How To Run
+----
+* Follow [heroku link](https://safe-caverns-7925.herokuapp.com/) and play the game!
+* For run locally, clone the repo, run `bundle`, and start sinatra server by typing `ruby server.rb` in the main folder.
 
 VS CPU  
 ----
